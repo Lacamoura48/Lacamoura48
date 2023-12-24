@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lacamoura48&label=Profile%20views&color=0e75b6&style=flat" alt="lacamoura48" /> </p>
 
-- 👯 I’m looking to collaborate on **react or vue project :)**
-
 - 👨‍💻 All of my projects are available at [https://lacamoura-portfolio.netlify.app/](https://lacamoura-portfolio.netlify.app/)
 
 - 📫 How to reach me **anasfog@outlook.com**
